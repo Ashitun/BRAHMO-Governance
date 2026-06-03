@@ -1,0 +1,5 @@
+backend\.venv
+backend\__pycache__
+frontend\node_modules
+backend/models/__pycache__
+backend\governance\__pycache__
