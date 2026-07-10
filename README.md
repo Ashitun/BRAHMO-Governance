@@ -47,6 +47,9 @@ brahmo-governance/
     ├── schema.sql
     └── seed.sql
 ```
+## PROJECT Architecture
+![Dashboard](images/Brahmo-Governance-Architecture.png)
+
 
 ## Run locally
 
